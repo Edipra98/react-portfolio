@@ -380,7 +380,7 @@ u,
 		height: 120vw;
 	}
 	.overlay {
-		width: 90vw;
+		width: 100vw;
 		height: auto;
 		background-color: rgb(3, 6, 59);
 		border-radius: 1rem;

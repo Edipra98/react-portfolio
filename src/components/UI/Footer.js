@@ -10,6 +10,8 @@ const Footer = () => {
 				alignItems: 'center',
 				textAlign: 'center',
 				fontSize: '1rem',
+				textShadow:
+					'0 0 0.75rem black, 0 0 0.75rem black, 0 0 0.75rem black, 0 0 0.75rem black, 0 0 0.75rem black, 0 0 0.75rem black, 0 0 0.75rem black',
 			}}
 		>
 			<div

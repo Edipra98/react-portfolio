@@ -119,7 +119,7 @@ u,
 	background-color: inherit;
 	background-size: cover;
 	background-repeat: no-repeat;
-	min-height: 90vh;
+	min-height: 100vh;
 	align-items: center;
 	/* border-radius: 1rem 1rem 0 0; */
 }
@@ -145,7 +145,7 @@ u,
 	font-size: 2rem;
 	display: flex;
 	flex-wrap: wrap;
-	margin-bottom: 1.5rem;
+	margin-bottom: 4rem;
 }
 .work-links {
 	width: 14vw;
@@ -246,6 +246,12 @@ u,
 	align-items: center;
 	text-align: center;
 	background-color: transparent;
+}
+footer {
+	position: fixed;
+	bottom: 0;
+	width: inherit;
+	margin-top: 0;
 }
 @media (max-width: 1500px) {
 	.work-links {
@@ -362,7 +368,7 @@ u,
 }
 @media (max-width: 375px) {
 	.main {
-		width: 100vw;
+		min-width: 100vw;
 		margin: auto;
 		font-size: 1.5rem;
 		min-height: 100vh;
@@ -379,7 +385,7 @@ u,
 		height: 120vw;
 	}
 	.overlay {
-		width: 90vw;
+		width: 100vw;
 		height: auto;
 		background-color: rgb(3, 6, 59);
 		border-radius: 1rem;
