@@ -1,7 +1,9 @@
 import React from 'react';
 
 const NotFound = () => {
-	return <div>NotFound</div>;
+	return (
+		<div>There is nothing on this page, please navigate to a valid URL</div>
+	);
 };
 
 export default NotFound;
