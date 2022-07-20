@@ -9,30 +9,28 @@ import Footer from './components/UI/Footer';
 
 const App = () => {
 	return (
-		<body>
-			<div className='main'>
-				<div className='main-container'>
-					<Header />
-					<main>
-						<Switch>
-							<Route path='/' exact>
-								<Redirect to='/home' />
-							</Route>
-							<Route path='/home' exact>
-								<Home />
-							</Route>
-							<Route path='/projects' exact>
-								<Projects />
-							</Route>
-							<Route path='*'>
-								<NotFound />
-							</Route>
-						</Switch>
-					</main>
-				</div>
-				<Footer />
+		<div className='main'>
+			<div className='main-container'>
+				<Header />
+				<main>
+					<Switch>
+						<Route path='/' exact>
+							<Redirect to='/home' />
+						</Route>
+						<Route path='/home' exact>
+							<Home />
+						</Route>
+						<Route path='/projects' exact>
+							<Projects />
+						</Route>
+						<Route path='*'>
+							<NotFound />
+						</Route>
+					</Switch>
+				</main>
 			</div>
-		</body>
+			<Footer />
+		</div>
 	);
 };
 

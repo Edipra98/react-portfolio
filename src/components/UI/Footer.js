@@ -2,8 +2,24 @@ import React from 'react';
 
 const Footer = () => {
 	return (
-		<footer className='footer'>
-			<div className='footer-container'>
+		<footer
+			style={{
+				padding: '1rem',
+				display: 'table',
+				margin: 'auto',
+				alignItems: 'center',
+				textAlign: 'center',
+				fontSize: '1rem',
+			}}
+		>
+			<div
+				className={{
+					display: 'tableCell',
+					verticalAlign: 'middle',
+					alignItems: 'center',
+					textAlign: 'center',
+				}}
+			>
 				<div>&copy; 2022 Daniel Arpide</div>
 				<div>Contact Me: djarpide@gmail.com</div>
 			</div>
