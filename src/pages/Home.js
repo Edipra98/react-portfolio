@@ -20,7 +20,7 @@ const Home = () => {
 					Science side of the courses. In college the largest project I was a
 					part of was when I worked with a team to develop an application using
 					the Spotify API, while creating this I found out that programming was
-					the path I wanted to take in my career. Currently junior software
+					the path I wanted to take in my career. I'm currently junior software
 					engineer focusing in web development.
 				</i>
 			</div>
