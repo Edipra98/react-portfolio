@@ -13,12 +13,12 @@ const Header = () => {
 				</Link>
 			</div>
 			<div className='col labels-social__links social'>
-				<Link to='https://www.linkedin.com/in/daniel-j-arpide/'>
+				<a href='https://www.linkedin.com/in/daniel-j-arpide/'>
 					<i className='fab fa-linkedin social'></i>
-				</Link>
-				<Link to='https://github.com/Edipra98'>
+				</a>
+				<a href='https://github.com/Edipra98'>
 					<i className='fab fa-github-square social'></i>
-				</Link>
+				</a>
 			</div>
 		</header>
 	);
