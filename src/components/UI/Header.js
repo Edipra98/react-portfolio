@@ -16,7 +16,7 @@ const Header = () => {
 				<a href='https://www.linkedin.com/in/daniel-j-arpide/'>
 					<i className='fab fa-linkedin social'></i>
 				</a>
-				<a href='https://github.com/Edipra98'>
+				<a href='https://github.com/EdipraTech'>
 					<i className='fab fa-github-square social'></i>
 				</a>
 			</div>
