@@ -20,9 +20,14 @@ const Home = () => {
 						hardware, I have always had a stronger interest in the Computer
 						Science side of the courses. In college the largest project I was a
 						part of was when I worked with a team to develop an application
-						using the Spotify API, while creating this I found out that
-						programming was the path I wanted to take in my career. I'm
-						currently junior software engineer focusing in web development.
+						using the Spotify API, during the creation of this I found that I
+						leaned towards software within my degree. While this may have been
+						the case, there was always an itch for using my hands that was never
+						scratched through software. This itch would soon be scratched as I
+						started tinkering more with computers and laptops, even going as far
+						as diagnosing why and how a family members computer turned off and
+						was essentially "dead." Currently I am a junior IT technician with
+						an aspiration of becoming a network engineer.
 					</i>
 				</div>
 			</div>
