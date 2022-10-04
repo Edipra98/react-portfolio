@@ -25,7 +25,7 @@ const Projects = () => {
 						&lt;<span class='red-text'>Code</span> /&gt;
 					</a>
 					<a
-						href='https://edipra98.github.io/Main-SW-Characters/'
+						href='https://edipratech.github.io/Main-SW-Characters/'
 						class='webpage'
 					>
 						&lt;<span class='red-text'>Live Site</span> /&gt;
