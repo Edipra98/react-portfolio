@@ -1,1 +1,1 @@
-A repo for my website to be located at https://www.edipra.tech
+A repo for my website to be located at http://www.edipra.tech
